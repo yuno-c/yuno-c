@@ -46,7 +46,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 
 <div align="center">
   
-  <img src="https://github-stats-alpha.vercel.app/api?username=damii-auDHD&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damii-auDHD)](https://github.com/anuraghazra/github-readme-stats)" alt="Stats">
 
 </div>
 
