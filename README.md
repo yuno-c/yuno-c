@@ -57,7 +57,6 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 
 [![](https://visitcount.itsvg.in/api?id=damii-auDHD&icon=5&color=12)](https://visitcount.itsvg.in)
 
-💖 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐! ✨
 
 ‎<p align="center">
 ‎  <a href="https://github.com/damii-auDHD"><img src="https://count.getloli.com/get/@damii-auDHD?theme=rule34" alt="loli"></a>
