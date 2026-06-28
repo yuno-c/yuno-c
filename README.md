@@ -2,10 +2,9 @@
 
 **`zero core dreamer (Student)`**
 
-Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to mastering systems programming, but again; it's just a dream, i wanna study statistics, applied mathematics, advanced physics, computer science and astrophysics, currently learning AI/ML, will probably be done by the end of the year 
-- 🎓 Studying Statistics
+Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to mastering machine learning, systems programming, cyber security and theoretical physics 
+- 🎓 Studying anything and everything
 - 💻 Languages: JavaScript, Python
-- 📚 Currently: deciding life roadmap
 - 🎯 Goal: create a systems programming language, named **zero** (file extension .z), then create an operating system with it
 - ⚗️ random fact: i can't work with music cause i get extremely overwhelemed
 - 🌱 Learning: Advanced algorithms & calculus
