@@ -2,13 +2,12 @@
 
 **`zero core dreamer (Student)`**
 
-Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to mastering machine learning, systems programming, cyber security and theoretical physics 
-- 🎓 Studying anything and everything
-- 💻 Languages: JavaScript, Python
-- 🎯 Goal: create a systems programming language, named **zero** (file extension .z), then create an operating system with it
-- ⚗️ random fact: i can't work with music cause i get extremely overwhelemed
-- 🌱 Learning: Advanced algorithms & calculus
-- 💬 Ask me about: sleeping positions and computers
+Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to mastering machine learning, systems programming, cyber security and theoretical physics
+- Studying anything and everything
+- Languages: JavaScript, Python
+- Goal: be above average in everything i do
+- random: i can't work with music cause i get extremely overwhelemed
+- self-taught.
 
 <br clear="right"/>
 
