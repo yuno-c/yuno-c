@@ -41,7 +41,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 &nbsp;&nbsp;
   
   <img src="https://github-readme-stats.vercel.app/api?username=damii-auDHD&show_icons=true&theme=transparent&hide_border=true&layout=compact&bg_color=0D1117" alt="Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damii-auDHD&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117" alt="top langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damii-auDHD&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117" alt="top langs">
 
 
 ---
