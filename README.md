@@ -24,8 +24,8 @@ Hi ! I'm **dami**, a neurodivergent teenager obsessed with whatever the universe
 </p>
 &nbsp;&nbsp;
   
-  <img src="https://github-readme-stats.vercel.app/api?username=damii-auDHD&show_icons=true&theme=transparent">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damii-auDHD&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117" alt="top langs">
+  <img align="left" src="https://github-readme-stats-silk-six-16.vercel.app/api/top-langs/?username=damii-auDHD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&border_radius=5">
+  <img align="left" src="https://github-readme-stats-silk-six-16.vercel.app/api?username=damii-auDHD&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&border_radius=10" alt="top langs">
 
 
 ---
