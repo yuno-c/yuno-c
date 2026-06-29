@@ -30,7 +30,7 @@ Hi ! I'm **dami**, a neurodivergent teenager obsessed with whatever the universe
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="50" alt="Git"/>
 &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" width="50" alt="pygame"/>
+<img src="https://commons.wikimedia.org/wiki/File:FastAPI_logo.svg" width="50" alt="pygame"/>
 &nbsp;&nbsp;
 </p>
 &nbsp;&nbsp;
