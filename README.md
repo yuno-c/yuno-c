@@ -32,6 +32,8 @@ Hi ! I'm **dami**, a neurodivergent teenager obsessed with whatever the universe
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" width="180" alt="fastapi"/>
 &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" width="180" alt="pygame"/>
+&nbsp;&nbsp;
 </p>
 &nbsp;&nbsp;
   
