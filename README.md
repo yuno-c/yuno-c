@@ -12,15 +12,15 @@ Hi ! I'm **dami**, a neurodivergent teenager obsessed with whatever the universe
 ### Tech Stack
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/93cc72e2d5be6d44753c7e8169440471f605eee495b3b78480a591c14f39080e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="50" alt="JavaScript"/>
-  <img src="https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473" width="50" alt="Typescript"/>
+  <img src="https://camo.githubusercontent.com/93cc72e2d5be6d44753c7e8169440471f605eee495b3b78480a591c14f39080e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="40" alt="JavaScript"/>
+  <img src="https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473" width="40" alt="Typescript"/>
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="50" alt="Python"/>
-  <img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="50" alt="Node.js"/>
-  <img src="https://camo.githubusercontent.com/6c581f9592fa01dbdcf471f2691504e88c96d4840ce2710e9080513cdbed7c21/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" width="50" alt="Express.js"/>
-  <img src="https://camo.githubusercontent.com/3f64455ed2487f1300832f38d3de984a7260ba5c5887f4d9e4e9959e8911e64a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" width="50" alt="MongoDB"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" alt="MySQL"/>
-  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="50" alt="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" width="180" alt="fastapi"/>
+  <img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="40" alt="Node.js"/>
+  <img src="https://camo.githubusercontent.com/6c581f9592fa01dbdcf471f2691504e88c96d4840ce2710e9080513cdbed7c21/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" width="40" alt="Express.js"/>
+  <img src="https://camo.githubusercontent.com/3f64455ed2487f1300832f38d3de984a7260ba5c5887f4d9e4e9959e8911e64a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" width="40" alt="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" alt="MySQL"/>
+  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="40" alt="Git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" width="150" alt="fastapi"/>
 </p>
 &nbsp;&nbsp;
   
