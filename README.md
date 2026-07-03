@@ -4,8 +4,9 @@ Hi ! I'm **yuno**, a neurodivergent teenager obsessed with whatever the universe
 - Studying anything and everything
 - Languages: JavaScript, Python
 - Goal: be above average in everything i do
-- random: i can't work with music cause i get extremely overwhelemed
+- i can't work with music cause i get extremely overwhelemed
 - self-taught.
+- i love math & physics, especially astronomically applied physics!
 
 <br clear="right"/>
 
