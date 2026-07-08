@@ -1,6 +1,6 @@
-**`zero core dreamer (Student)`**
+**`zero core dreamer`**
 
-Hi ! I'm **yuno**, a neurodivergent teenager obsessed with whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to mastering machine learning, systems programming, cyber security and theoretical physics, currently learning the blueprint of 90% of modern programming; C.
+obsessed with whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to mastering machine learning, systems programming, cyber security and theoretical physics, currently learning the blueprint of 90% of modern programming; C.
 - Studying anything and everything
 - Languages: JavaScript, Python, C
 - Goal: be above average in everything i do
