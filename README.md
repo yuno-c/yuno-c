@@ -16,6 +16,7 @@ obsessed with whatever the universe brings forth that includes math and computer
   <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=typescript" width="50" alt="Typescript"/>
   <img src="https://skillicons.dev/icons?i=c" width="50" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C"/>
   <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js"/>
