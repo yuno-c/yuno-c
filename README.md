@@ -29,8 +29,8 @@ enjoys whatever the universe brings forth that includes math and computers, i do
 &nbsp;&nbsp;
   
  <p align="left">
-  <img src="https://github-readme-stats-seven-tau-96.vercel.app/api/top-langs/?username=yuno-c&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=32CD32&border_radius=5&v=4&hide=QML,HTML,CSS,Shell,Cmake,Makefile" height="165"/>
-  <img src="https://github-readme-stats-seven-tau-96.vercel.app/api?username=yuno-c&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=32CD32&icon_color=32CD32&border_radius=10&v=4" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-seven-tau-96.vercel.app/api/top-langs/?username=yuno-c&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=32CD32&border_radius=5&v=5&hide=QML,HTML,CSS,Shell,Cmake,Makefile" height="165"/>
+  <img src="https://github-readme-stats-seven-tau-96.vercel.app/api?username=yuno-c&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=32CD32&icon_color=32CD32&border_radius=10&v=5" alt="GitHub Stats" height="165" />
 </p>
 
 
