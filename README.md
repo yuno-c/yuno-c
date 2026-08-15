@@ -10,7 +10,7 @@ enjoys whatever the universe brings forth that includes math and computers, i do
 
 <br clear="right"/>
 
-### Tech Stack
+### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
