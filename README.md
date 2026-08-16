@@ -36,16 +36,5 @@ enjoys whatever the universe brings forth that includes math and computers, i do
 
 ---
 
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=damii-auDHD&icon=5&color=12)](https://visitcount.itsvg.in)
-
-
-‎<p align="center">
-‎  <a href="https://github.com/damii-auDHD"><img src="https://count.getloli.com/get/@yuno-c?theme=rule34" alt="loli"></a>
-‎</p>
-
-
-</div>
 
 
