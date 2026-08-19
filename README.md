@@ -28,9 +28,7 @@ enjoys whatever the universe brings forth that includes math and computers, i do
 </p>
 &nbsp;&nbsp;
 
-### Certificate(s)
-python - https://www.freecodecamp.org/certification/damiii/python-v9
-&nbsp;&nbsp;
+
   
  <p align="left">
   <img src="https://github-readme-stats-seven-tau-96.vercel.app/api/top-langs/?username=yuno-c&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=32CD32&border_radius=5&v=6&hide=QML,HTML,CSS,Shell,Cmake,Makefile,Rust,PowerShell,Nix,DockerFile,Typescript" height="165"/>
