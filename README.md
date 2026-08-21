@@ -1,4 +1,4 @@
-**`zero core dreamer`**
+**zero core dreamer`*
 
 enjoys whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to learning engineering, mathematics, systems programming and theoretical physics.
 - Studying anything and everything
