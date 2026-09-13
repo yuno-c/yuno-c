@@ -1,12 +1,10 @@
 **`zero core dreamer`**
 
-enjoys whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to learning engineering, mathematics, systems programming and theoretical physics.
-- Studying anything and everything
-- Languages: JavaScript, Python, C, C++
-- Goal: be above average in everything i do
-- i can't work with music cause i get extremely overwhelemed
-- self-taught.
-- i love math & physics, especially astronomically applied physics!
+whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to learning engineering, mathematics,and theoretical physics.
+- Studying physics engines, machine learning and astronomy.
+- core languages: Python, C++
+
+i love working on projects involving physics and bringing computers to life.
 
 <br clear="right"/>
 
