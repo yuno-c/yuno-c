@@ -19,10 +19,12 @@ i love working on projects involving physics and bringing computers to life.
   <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=fastapi" width="50" alt="fastapi"/>
   <img src="https://skillicons.dev/icons?i=arch" width="50" alt="arch"/>
   <img src="https://skillicons.dev/icons?i=linux" width="50" alt="linux"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" alt="nix"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" alt="postgres"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" alt="neovim"/>
 </p>
 &nbsp;&nbsp;
 
