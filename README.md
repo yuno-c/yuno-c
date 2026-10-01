@@ -22,9 +22,9 @@ i love working on projects involving physics and bringing computers to life.
   <img src="https://skillicons.dev/icons?i=fastapi" width="50" alt="fastapi"/>
   <img src="https://skillicons.dev/icons?i=arch" width="50" alt="arch"/>
   <img src="https://skillicons.dev/icons?i=linux" width="50" alt="linux"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="50" alt="nix"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="50" alt="postgres"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="50" alt="neovim"/>
+  <img src="https://skillicons.dev/icons?i=nix" width="50" alt="nix"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="postgres"/>
+  <img src="https://skillicons.dev/icons?i=neovim" width="50" alt="neovim"/>
 </p>
 &nbsp;&nbsp;
 
